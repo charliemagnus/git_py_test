@@ -1,3 +1,7 @@
-for x,y in (x,y):
-    return x**y
+x = int(input("Whats x "))
+y = int(input("Whats y "))
+
+result = x/y
+
+print(result)
 
